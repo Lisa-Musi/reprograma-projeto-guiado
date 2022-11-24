@@ -1,0 +1,11 @@
+.card {
+    padding: 1em;
+    background-color: #686AAC;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.cardLink {
+    text-decoration: none;
+    color: #fff;
+}

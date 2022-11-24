@@ -1,0 +1,15 @@
+.reposContainer {
+    display: flex;
+    padding: 2em;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.searchInput {
+    width: 60%;
+    padding: 12px 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 1rem auto;
+}
